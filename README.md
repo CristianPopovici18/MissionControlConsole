@@ -125,10 +125,11 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 | Indicação   | Ativa ou desativa LEDs, consoante o microcontrolador mandar |
 
 ### Orçamento de Potência
-| Componente                          | Quantidade | Tensão      | Tipo | Corrente Unitária | Corrente Total | Potẽncia        |
-| ----------------------------------- | ---------- | ----------- | ---- | ----------------- | -------------- | --------------- |
-| LED 29 mm M22                       | 6          | 24V         | DC   | 20mA              | 120mA          | 2.88W           |
-| LED Vermelho e Amarelo 5mm          | 2          | 3.0V - 3.2V | DC   | 20mA              | 40mA           | 0.12W - 0.128W  |
-| LED Verde 5mm                       | 1          | 1.8V - 2.2V | DC   | 20mA              | 20mA           | 0.036W - 0.044W |
-| Raspberry Pi Pico baseado no RP2040 | 1          | 5V          | DC   | 50mA              | 50mA           | 0.25W           |
-| Regulador Buck TPS56837HRPAR        | 1          | 3.5V - 60V  | DC   | 1.5A              | 1.5A           | 5.25W - 90W     |
+| Componente                          | Quantidade | Tensão | Tipo | Corrente Unitária | Corrente Total | Potẽncia |
+| ----------------------------------- | ---------- | ------ | ---- | ----------------- | -------------- | -------- |
+| LED 29 mm M22                       | 6          | 24V    | DC   | 20mA              | 120mA          | 2.88W    |
+| LED 5mm                             | 3          | 3.3V   | DC   | 20mA              | 60mA           | 0.13W    |
+| Raspberry Pi Pico baseado no RP2040 | 1          | 5V     | DC   | 50mA              | 50mA           | 0.25W    |
+| Regulador Buck TPS56837HRPAR        | 1          | 24     | DC   | 15mA              | 15mA           | 0.36W    |
+| Total                               | 11         | -      | DC   | 125mA             | 245mA          | 3.65W    |
+
