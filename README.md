@@ -108,6 +108,11 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 | Regulador Buck TPS56837HRPAR         | 001-3847   |
 | Conectores Molex de 4 pinos          | 43045-0408 |
 | Conectores Molex de 2 pinos          | 43045-0206 |
+| Resistência 100R                     | 104-7024   |
+| Resistência 150R                     | 104-7026   |
+| Resistência 680R                     | 104-7034   |
+| Transistor NPN                       | 002-0243   |
+
 
 ### Interfaces e a sua integração com o microcontrolador
 | Interface   | Função                                                                                                      | Componentes                                                          |
@@ -127,7 +132,7 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 ### Orçamento de Potência
 | Componente                    | Quantidade | Tensão de Entrada | Tensão Necessária | Resistência | Corrente Unitária Necessária | Corrente Unitária Fornecida | Corrente Total | Potẽncia                      |
 | ----------------------------- | ---------- | ----------------- | ----------------- | ----------- | ---------------------------- | --------------------------- | -------------- | ----------------------------- |
-| LED Verde 5mm                 | 1          | 5V DC             | 3V                | 100$Ω | 20mA                         | 20mA                        | 20mA           | 0.10W                         |
+| LED Verde 5mm                 | 1          | 5V DC             | 3V                | 100Ω | 20mA                         | 20mA                        | 20mA           | 0.10W                         |
 | LED Vermelho e Amarelo 5mm    | 2          | 5V DC             | 2V                | 150Ω | 20mA                         | 20mA                        | 40mA           | 0.20W                         |
 | Raspberry Pi Pico             | 1          | 5V DC             | 5V                | -           | 30mA                         | 30mA                        | 30mA           | 0.15W                         |
 | Regulador Buck                | 1          | 24V DC            | 24V               | -           | -                            | -                           | -              | (0.10+0.20+0.15)/0.80 = 0.56W |
