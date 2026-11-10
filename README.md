@@ -127,12 +127,12 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 ### Orçamento de Potência
 | Componente                    | Quantidade | Tensão de Entrada | Tensão Necessária | Resistência | Corrente Unitária Necessária | Corrente Unitária Fornecida | Corrente Total | Potẽncia                      |
 | ----------------------------- | ---------- | ----------------- | ----------------- | ----------- | ---------------------------- | --------------------------- | -------------- | ----------------------------- |
-| LED Verde 5mm                 | 1          | 5V DC             | 3V                | 100$\Omega$ | 20mA                         | 20mA                        | 20mA           | 0.10W                         |
-| LED Vermelho e Amarelo 5mm    | 2          | 5V DC             | 2V                | 150$\Omega$ | 20mA                         | 20mA                        | 40mA           | 0.20W                         |
+| LED Verde 5mm                 | 1          | 5V DC             | 3V                | 100$Ω | 20mA                         | 20mA                        | 20mA           | 0.10W                         |
+| LED Vermelho e Amarelo 5mm    | 2          | 5V DC             | 2V                | 150Ω | 20mA                         | 20mA                        | 40mA           | 0.20W                         |
 | Raspberry Pi Pico             | 1          | 5V DC             | 5V                | -           | 30mA                         | 30mA                        | 30mA           | 0.15W                         |
 | Regulador Buck                | 1          | 24V DC            | 24V               | -           | -                            | -                           | -              | (0.10+0.20+0.15)/0.80 = 0.56W |
 | LED 29 mm M22                 | 6          | 24V DC            | 24V               | -           | 20mA                         | 20mA                        | 120mA          | 2.88W                         |
-| Interruptor com indicador LED | 3          | 24V DC            | 12V               | 680$\Omega$ | 20mA                         | 17.65mA                     | 52.94mA        | 1.27W                         |
+| Interruptor com indicador LED | 3          | 24V DC            | 12V               | 680Ω | 20mA                         | 17.65mA                     | 52.94mA        | 1.27W                         |
 | Total                         | 14         | 24V DC            | -                 | -           | -                            | -                           | 4.71/24= 196mA | (0.56+2.88+1.27) = 4.71W      |
 | Margem de 20%                 | 14         | 24V DC            | -                 | -           | -                            | -                           | 5.65/24= 236mA | 5.65W                         |
 
