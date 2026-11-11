@@ -23,7 +23,7 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [X] Definir como cada interface funciona e como interage com o microcontrolador
 - [X] Definir interface com a GS
 - [X] Fazer um orçamento de potência
-- [ ] Unir tudo num diagrama de blocos
+- [X] Unir tudo num diagrama de blocos
 - [ ] Fazer um diagrama de estados ou tabela de verdade da lógica de armamento
 - [ ] Exportar para imagem ou PDF
 - [ ] Pedir feedback
@@ -141,3 +141,5 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 | Total                         | 14         | 24V DC            | -                 | -           | -                            | -                           | 4.71/24= 196mA | (0.56+2.88+1.27) = 4.71W      |
 | Margem de 20%                 | 14         | 24V DC            | -                 | -           | -                            | -                           | 5.65/24= 236mA | 5.65W                         |
 
+### Diagrama de Blocos
+<img width="1875" height="1857" alt="diagramadeblocos" src="https://github.com/user-attachments/assets/4124ea78-5c68-44b8-b923-c88fe9ecd3b0" />
