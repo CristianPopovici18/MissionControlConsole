@@ -24,7 +24,7 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [X] Definir interface com a GS
 - [X] Fazer um orçamento de potência
 - [X] Unir tudo num diagrama de blocos
-- [ ] Fazer um diagrama de estados ou tabela de verdade da lógica de armamento
+- [X] Fazer uma tabela de verdade da lógica de armamento
 - [ ] Exportar para imagem ou PDF
 - [ ] Pedir feedback
 
@@ -143,3 +143,48 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 
 ### Diagrama de Blocos
 <img width="1875" height="1857" alt="diagramadeblocos" src="https://github.com/user-attachments/assets/4124ea78-5c68-44b8-b923-c88fe9ecd3b0" />
+
+### Tabela de verdade do armamento
+
+Função: Dead Man Switch AND Interruptor com indicador led AND Botão de pressão
+
+| Abreviação | Significado                   |
+| ---------- | ----------------------------- |
+| IC         | Interruptor de chave          |
+| DMS        | Dead Man Switch               |
+| IL         | Interruptor com indicador led |
+| BP         | Botão de pressão              |
+
+| DMS | IL (Launch) | BP (Launch) | Launch |
+| --- | ----------- | ----------- | ------ |
+| 0   | 0           | 0           | 0      |
+| 0   | 0           | 1           | 0      |
+| 0   | 1           | 0           | 0      |
+| 0   | 1           | 1           | 0      |
+| 1   | 0           | 0           | 0      |
+| 1   | 0           | 1           | 0      |
+| 1   | 1           | 0           | 0      |
+| 1   | 1           | 1           | 1      |
+
+| DMS | IL (Vent) | BP (Vent) | Vent |
+| --- | --------- | --------- | ---- |
+| 0   | 0         | 0         | 0    |
+| 0   | 0         | 1         | 0    |
+| 0   | 1         | 0         | 0    |
+| 0   | 1         | 1         | 0    |
+| 1   | 0         | 0         | 0    |
+| 1   | 0         | 1         | 0    |
+| 1   | 1         | 0         | 0    |
+| 1   | 1         | 1         | 1    |
+
+| DMS | IL (Abort) | BP (Abort) | Abort |
+| --- | ---------- | ---------- | ----- |
+| 0   | 0          | 0          | 0     |
+| 0   | 0          | 1          | 0     |
+| 0   | 1          | 0          | 0     |
+| 0   | 1          | 1          | 0     |
+| 1   | 0          | 0          | 0     |
+| 1   | 0          | 1          | 0     |
+| 1   | 1          | 0          | 0     |
+| 1   | 1          | 1          | 1     |
+
