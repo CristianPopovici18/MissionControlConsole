@@ -7,7 +7,8 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [x] Semana 3: 15 de Novembro a 21 de Novembro
 - [ ] Semana 4: 22 de Novembro a 27 de Novembro
 
-<img width="2177" height="808" alt="timeline" src="https://github.com/user-attachments/assets/c0becd8a-5fde-4bd3-85c6-166e5a1dc2f5" />
+<img width="2177" height="808" alt="Project Timeline Redefinido" src="https://github.com/user-attachments/assets/a2b372ba-b2b5-444c-bd32-495761e44b10" />
+
 
 ## Lista de Tarefas
 ### Preparação
