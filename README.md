@@ -3,8 +3,8 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 
 ## Cronograma
 - [X] Semana 1: 31 de Outubro a 7 de Novembro
-- [ ] Semana 2: 8 de Novembro a 14 de Novembro
-- [ ] Semana 3: 15 de Novembro a 21 de Novembro
+- [x] Semana 2: 8 de Novembro a 14 de Novembro
+- [x] Semana 3: 15 de Novembro a 21 de Novembro
 - [ ] Semana 4: 22 de Novembro a 27 de Novembro
 
 <img width="2177" height="808" alt="timeline" src="https://github.com/user-attachments/assets/c0becd8a-5fde-4bd3-85c6-166e5a1dc2f5" />
@@ -25,16 +25,16 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [X] Fazer um orçamento de potência
 - [X] Unir tudo num diagrama de blocos
 - [X] Fazer uma tabela de verdade da lógica de armamento
-- [ ] Exportar para imagem ou PDF
-- [ ] Pedir feedback
+- [x] Exportar para imagem ou PDF
+- [x] Pedir feedback
 
 ### Esquemático elétrico
-- [ ] Importar componentes e atribuir footprints no KiCad
-- [ ] Criar o esquema para cada interface
-- [ ] Unir interfaces à alimentação e ao microcontrolador
-- [ ] Unir o MCC com a GS
-- [ ] Exportar para PDF
-- [ ] Pedir feedback
+- [x] Importar componentes e atribuir footprints no KiCad
+- [x] Criar o esquema para cada interface
+- [x] Unir interfaces à alimentação e ao microcontrolador
+- [x] Unir o MCC com a GS
+- [x] Exportar para PDF
+- [x] Pedir feedback
 
 ### Desenho e encaminhamento da PCB
 - [ ] Definir dimensões
@@ -44,7 +44,7 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [ ] Traçar caminhos
 - [ ] Exportar arquivo Gerber (para fabricação e entrega), Drill (para perfuração das placas) e STEP (para integração ao CAD)
 - [ ] Pedir feedback
-- [ ] Reunião de revisão de progresso
+- [x] Reunião de revisão de progresso
 
 ### Projeto CAD
 - [ ] Criar um esboço do projeto
@@ -86,33 +86,6 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 | Interfaces externas              | Ligação à energia e à comunicação com a GS    | Ligação à energia através da entrada Jack DC e à comunicação com a GS através do connector micro-usb                            | Conector micro-usb, Entrada de alimentação Jack DC. |
 | Logótipo do RED                  | Identidade visual                             | Representa a equipa                                                                                                             | Autocolante                                         |
 |                                  |                                               |                                                                                                                                 |                                                     |
-
-### Lista de componentes
-| Componente                           | Quantidade | Referência    |
-| ------------------------------------ | ---------- | ------------- |
-| Interruptor Dead Man Switch          | 1          | 010-0109      |
-| Interruptor ON-OFF com indicador LED | 3          | 010-0385      |
-| Capa Interruptor Alavanca - Vermelha | 3          | 010-0314      |
-| Botão de Pressão OFF-(ON) Azul       | 1          | 010-0333      |
-| Botão de Pressão OFF-(ON) Vermelho   | 1          | 010-0337      |
-| Botão de Pressão OFF-(ON) Verde      | 1          | 010-0334      |
-| Interruptor de Chave                 | 1          | 010-0443      |
-| LED 29 mm M22 - Branco               | 3          | 017-1313      |
-| LED 29 mm M22 - Vermelho             | 1          | 017-1312      |
-| LED 29 mm M22 - Verde                | 1          | 017-1311      |
-| LED 29 mm M22 - Azul                 | 1          | 017-1314      |
-| Conjunto de LEDs de 5 mm             | 1          | 004-1797      |
-| Raspberry Pi Pico baseado no RP2040  | 1          | 095-0596      |
-| Cabo Micro-USB                       | 1          | 047-2625      |
-| Conector Jack DC                     | 1          | 011-0512      |
-| Regulador Buck                       | 1          | TPS56837HRPAR |
-| Conectores Molex de 4 pinos          | 3          | 43045-0408    |
-| Conectores Molex de 2 pinos          | 13         | 43045-0206    |
-| Resistência 100R                     | 1          | 104-7024      |
-| Resistência 150R                     | 1          | 104-7026      |
-| Resistência 680R                     | 1          | 104-7034      |
-| Transistor NPN                       | 7          | 002-0243      |
-| Fonte de Alimentação                 | 1          | 035-5045      |
 
 ### Interfaces e a sua integração com o microcontrolador
 | Interface   | Função                                                                                                     | Componentes                                                                                  |
@@ -189,3 +162,5 @@ Função: Dead Man Switch AND Interruptor com indicador led AND Botão de press�
 | 1   | 1          | 0          | 0     |
 | 1   | 1          | 1          | 1     |
 
+## Esquemático
+<img width="3508" height="2480" alt="esquemático" src="https://github.com/user-attachments/assets/e0970444-89fb-4d12-a3b5-153fb9719c92" />
