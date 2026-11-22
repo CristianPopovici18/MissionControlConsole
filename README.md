@@ -164,4 +164,5 @@ Função: Dead Man Switch AND Interruptor com indicador led AND Botão de press�
 | 1   | 1          | 1          | 1     |
 
 ## Esquemático
-<img width="3508" height="2480" alt="esquemático" src="https://github.com/user-attachments/assets/e0970444-89fb-4d12-a3b5-153fb9719c92" />
+[output.pdf](https://github.com/user-attachments/files/35224494/output.pdf)
+
