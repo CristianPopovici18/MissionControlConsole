@@ -38,13 +38,12 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [x] Pedir feedback
 
 ### Desenho e encaminhamento da PCB
-- [ ] Definir dimensões
-- [ ] Colocar conectores
-- [ ] Organizar por grupos
-- [ ] Implementar integração com Raspberry Pi Pico removível
-- [ ] Traçar caminhos
+- [x] Definir dimensões
+- [x] Colocar conectores
+- [x] Organizar por grupos
+- [x] Implementar integração com Raspberry Pi Pico removível
+- [x] Traçar caminhos
 - [ ] Exportar arquivo Gerber (para fabricação e entrega), Drill (para perfuração das placas) e STEP (para integração ao CAD)
-- [ ] Pedir feedback
 - [x] Reunião de revisão de progresso
 
 ### Projeto CAD
@@ -69,7 +68,6 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [ ] Explicar como funciona a montagem, acompanhado com um mapeamento das ligações (From-To Table)
 - [ ] Apresentar limitações, pressupostos e aspetos que necessitem de validação posterior.
 - [ ] Exportar para PDF
-- [ ] Pedir feedback
 
 ### Entrega
 - [ ] Exportar tudo o que é pedido, unir numa pasta e zipar
