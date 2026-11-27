@@ -5,7 +5,7 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [X] Semana 1: 31 de Outubro a 7 de Novembro
 - [x] Semana 2: 8 de Novembro a 14 de Novembro
 - [x] Semana 3: 15 de Novembro a 21 de Novembro
-- [ ] Semana 4: 22 de Novembro a 27 de Novembro
+- [x] Semana 4: 22 de Novembro a 27 de Novembro
 
 <img width="2177" height="808" alt="Project Timeline Redefinido" src="https://github.com/user-attachments/assets/a2b372ba-b2b5-444c-bd32-495761e44b10" />
 
@@ -43,15 +43,15 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [x] Organizar por grupos
 - [x] Implementar integração com Raspberry Pi Pico removível
 - [x] Traçar caminhos
-- [ ] Exportar arquivo Gerber (para fabricação e entrega), Drill (para perfuração das placas) e STEP (para integração ao CAD)
+- [x] Exportar arquivo Gerber (para fabricação e entrega), Drill (para perfuração das placas) e STEP (para integração ao CAD)
 - [x] Reunião de revisão de progresso
 
 ### Projeto CAD
-- [ ] Criar um esboço do projeto
-- [ ] Importar a caixa no SolidWorks
-- [ ] Definir dimensões
+- [x] Criar um esboço do projeto
+- [x] Importar a caixa no SolidWorks
+- [x] Definir dimensões
 - [ ] Desenhar as placas, furos, encaixes
-- [ ] Importar ou criar componentes
+- [x] Importar ou criar componentes
 - [ ] Juntar os componentes às placas
 - [ ] Juntar as placas à caixa
 - [ ] Criar vistas explodidas dimensionadas
@@ -59,15 +59,15 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 - [ ] Pedir feedback
 
 ### Relatório
-- [ ] Definir o esqueleto do relatório
-- [ ] Descrever a arquitetura global do MCC, acompanhando com o diagrama de blocos e imagens do PCB e da explosão do CAD
-- [ ] Apresentar as principais decisões de conceção e respetiva justificação
-- [ ] Apresentar o orçamento de potência
-- [ ] Adicionar o diagrama de estados ou a tabela de verdade
-- [ ] Explicar como mandar fabricar
-- [ ] Explicar como funciona a montagem, acompanhado com um mapeamento das ligações (From-To Table)
-- [ ] Apresentar limitações, pressupostos e aspetos que necessitem de validação posterior.
-- [ ] Exportar para PDF
+- [x] Definir o esqueleto do relatório
+- [x] Descrever a arquitetura global do MCC, acompanhando com o diagrama de blocos e imagens do PCB e da explosão do CAD
+- [x] Apresentar as principais decisões de conceção e respetiva justificação
+- [x] Apresentar o orçamento de potência
+- [x] Adicionar o diagrama de estados ou a tabela de verdade
+- [x] Explicar como mandar fabricar
+- [x] Explicar como funciona a montagem
+- [x] Apresentar limitações, pressupostos e aspetos que necessitem de validação posterior.
+- [x] Exportar para PDF
 
 ### Entrega
 - [ ] Exportar tudo o que é pedido, unir numa pasta e zipar
@@ -102,19 +102,26 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 | Indicação   | Ativa ou desativa LEDs, consoante o microcontrolador mandar |
 
 ### Orçamento de Potência
-| Componente                    | Quantidade | Tensão de Entrada | Tensão Necessária | Resistência | Corrente Unitária Necessária | Corrente Unitária Fornecida | Corrente Total | Potência                      |
-| ----------------------------- | ---------- | ----------------- | ----------------- | ----------- | ---------------------------- | --------------------------- | -------------- | ----------------------------- |
-| LED Verde 5mm                 | 1          | 5V DC             | 3V                | 100$\Omega$ | 20mA                         | 20mA                        | 20mA           | 0.10W                         |
-| LED Vermelho e Amarelo 5mm    | 2          | 5V DC             | 2V                | 150$\Omega$ | 20mA                         | 20mA                        | 40mA           | 0.20W                         |
-| Raspberry Pi Pico             | 1          | 5V DC             | 5V                | -           | 30mA                         | 30mA                        | 30mA           | 0.15W                         |
-| Regulador Buck                | 1          | 24V DC            | 24V               | -           | -                            | -                           | -              | (0.10+0.20+0.15)/0.80 = 0.56W |
-| LED 29 mm M22                 | 6          | 24V DC            | 24V               | -           | 20mA                         | 20mA                        | 120mA          | 2.88W                         |
-| Interruptor com indicador LED | 3          | 24V DC            | 12V               | 680$\Omega$ | 20mA                         | 17.65mA                     | 52.94mA        | 1.27W                         |
-| Total                         | 14         | 24V DC            | -                 | -           | -                            | -                           | 4.71/24= 196mA | (0.56+2.88+1.27) = 4.71W      |
-| Margem de 20%                 | -          | 24V DC            | -                 | -           | -                            | -                           | 5.65/24= 236mA | 5.65W                         |
+
+| Componente | Quantidade | Tensão de Entrada | Tensão Necessária | Resistência | Corrente Unitária Necessária | Corrente Unitária Fornecida | Corrente Total | Potência |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| LED Verde 5mm (Comms) | 1 | 3.3V DC | 3V | 30Ω | 10mA | 10mA | 10mA | 0.033W |
+| Transístores NPN BC547, bases (auxiliar) | 6 | 3.3V DC | 0.7V | 1.5kΩ | - | 1.73mA | 10.4mA | 0.034W |
+| Subtotal rail 3,3 V | - | 3.3V DC | - | - | - | - | 20.4mA | 0.067W |
+| Raspberry Pi Pico | 1 | 5V DC | 5V | - | 30mA | 30mA | 30mA | 0.150W |
+| LED Vermelho 5mm (Power) | 1 | 5V DC | 2V | 220Ω | 20mA | 13.6mA | 13.6mA | 0.068W |
+| LED Amarelo 5mm (Dead Man) | 1 | 5V DC | 2V | 220Ω | 20mA | 13.6mA | 13.6mA | 0.068W |
+| Interruptor com indicador LED | 3 | 5V DC | ≤5V | 270Ω | 20mA | ≤18.5mA | ≤55.6mA | ≤0.278W |
+| Divisores de leitura dos contactos (auxiliar) | 7 | 5V DC | 3.0V | 10kΩ + 15kΩ | - | 0.2mA | 1.4mA | 0.007W |
+| Cargas de 3,3 V (via regulador do Pico, η = 90%) | - | 5V DC | 3.3V | - | - | - | 15.0mA | 0.067/0.90 = 0.075W |
+| Subtotal rail 5 V | - | 5V DC | - | - | - | - | 129.2mA | 0.646W |
+| Regulador Buck TPS56837HRPAR | 1 | 24V DC | 24V | - | - | - | 33.6mA | 0.646/0.80 = 0.807W |
+| LED 29 mm M22 | 6 | 24V DC | 24V | - | 20mA | 20mA | 120mA | 2.88W |
+| Total (nominal) | 14 | 24V DC | - | - | - | - | 3.69/24 = 154mA | (0.807+2.88) = 3.69W |
+| Margem de 20% | - | 24V DC | - | - | - | - | 4.42/24 = 184mA | 4.42W |
 
 ### Diagrama de Blocos
-<img width="1913" height="1789" alt="diagramadeblocos" src="https://github.com/user-attachments/assets/2a0e3988-4d02-4c8d-81a5-c08f08fa2b6c" />
+<img width="1813" height="1677" alt="Project Timeline Rentago" src="https://github.com/user-attachments/assets/13a9cfcc-6072-462b-81ae-64d4f44b9fa3" />
 
 
 ### Tabela de verdade do armamento
@@ -162,5 +169,6 @@ Função: Dead Man Switch AND Interruptor com indicador led AND Botão de press�
 | 1   | 1          | 1          | 1     |
 
 ## Esquemático
-<img width="3508" height="2480" alt="esquematico" src="https://github.com/user-attachments/assets/743c2ca3-6da8-42b4-a7c3-92fab0ef4fbc" />
+[output.pdf](https://github.com/user-attachments/files/35530729/output.pdf)
+
 
