@@ -120,6 +120,7 @@ O projeto trata-se de um projeto de pré-candidatura para o Rocket Experiment Di
 | Total (nominal) | 14 | 24V DC | - | - | - | - | 3.69/24 = 154mA | (0.807+2.88) = 3.69W |
 | Margem de 20% | - | 24V DC | - | - | - | - | 4.42/24 = 184mA | 4.42W |
 
+
 ### Diagrama de Blocos
 <img width="1813" height="1677" alt="Project Timeline Rentago" src="https://github.com/user-attachments/assets/13a9cfcc-6072-462b-81ae-64d4f44b9fa3" />
 
@@ -169,6 +170,6 @@ Função: Dead Man Switch AND Interruptor com indicador led AND Botão de press�
 | 1   | 1          | 1          | 1     |
 
 ## Esquemático
-[output.pdf](https://github.com/user-attachments/files/35530729/output.pdf)
+<img width="3508" height="2480" alt="output(1)" src="https://github.com/user-attachments/assets/f0cfc3b8-89db-4bdc-abe4-ded1357cb647" />
 
 
