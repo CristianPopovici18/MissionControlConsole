@@ -1,0 +1,1335 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [9 0 R 11 0 R 13 0 R 15 0 R] /Count 4 >>
+endobj
+3 0 obj
+<< /Producer (GridCraft PDF) /Creator (GridCraft) /Title (MCC_PCB.csv) >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type0 /BaseFont /STSong-Light /Encoding /UniGB-UTF16-H /DescendantFonts [6 0 R] >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /CIDFontType0 /BaseFont /STSong-Light /CIDSystemInfo << /Registry (Adobe) /Ordering (GB1) /Supplement 4 >> /FontDescriptor 7 0 R /DW 1000 >>
+endobj
+7 0 obj
+<< /Type /FontDescriptor /FontName /STSong-Light /Flags 6 /FontBBox [-25 -254 1000 880] /ItalicAngle 0 /Ascent 880 /Descent -120 /CapHeight 880 /StemV 93 >>
+endobj
+8 0 obj
+<< /Length 7406 >>
+stream
+q
+50.4 348 474.75 390 re W n
+q
+50.4 723 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 726.92 Tm
+/F1 11 Tf
+(Reference) Tj
+ET
+Q
+q
+329.4 723 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 330.9 726.92 Tm
+/F1 11 Tf
+(Qty) Tj
+ET
+Q
+q
+377.4 723 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 726.92 Tm
+/F1 11 Tf
+(Value) Tj
+ET
+Q
+q
+477.15 723 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 478.65 726.92 Tm
+/F1 11 Tf
+(DNP) Tj
+ET
+Q
+q
+50.4 708 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 711.92 Tm
+/F1 11 Tf
+(C1,C6) Tj
+ET
+Q
+q
+329.4 708 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 711.92 Tm
+/F1 11 Tf
+(2) Tj
+ET
+Q
+q
+377.4 708 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 711.92 Tm
+/F1 11 Tf
+(10) Tj
+/F14 11 Tf
+<03BC> Tj
+/F1 11 Tf
+(F) Tj
+ET
+Q
+q
+50.4 693 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 696.92 Tm
+/F1 11 Tf
+(C2) Tj
+ET
+Q
+q
+329.4 693 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 696.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 693 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 696.92 Tm
+/F1 11 Tf
+(47nF) Tj
+ET
+Q
+q
+50.4 678 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 681.92 Tm
+/F1 11 Tf
+(C3,C7) Tj
+ET
+Q
+q
+329.4 678 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 681.92 Tm
+/F1 11 Tf
+(2) Tj
+ET
+Q
+q
+377.4 678 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 681.92 Tm
+/F1 11 Tf
+(0.1) Tj
+/F14 11 Tf
+<03BC> Tj
+/F1 11 Tf
+(F) Tj
+ET
+Q
+q
+50.4 663 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 666.92 Tm
+/F1 11 Tf
+(C4) Tj
+ET
+Q
+q
+329.4 663 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 666.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 663 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 666.92 Tm
+/F1 11 Tf
+(150pF) Tj
+ET
+Q
+q
+50.4 648 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 651.92 Tm
+/F1 11 Tf
+(C5,C8,C9,C10) Tj
+ET
+Q
+q
+329.4 648 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 651.92 Tm
+/F1 11 Tf
+(4) Tj
+ET
+Q
+q
+377.4 648 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 651.92 Tm
+/F1 11 Tf
+(22) Tj
+/F14 11 Tf
+<03BC> Tj
+/F1 11 Tf
+(F) Tj
+ET
+Q
+q
+50.4 633 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 636.92 Tm
+/F1 11 Tf
+(C12) Tj
+ET
+Q
+q
+329.4 633 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 636.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 633 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 636.92 Tm
+/F1 11 Tf
+(100) Tj
+/F14 11 Tf
+<03BC> Tj
+/F1 11 Tf
+(F) Tj
+ET
+Q
+q
+50.4 618 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 621.92 Tm
+/F1 11 Tf
+(D5) Tj
+ET
+Q
+q
+329.4 618 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 621.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 618 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 621.92 Tm
+/F1 11 Tf
+(P6KE36A) Tj
+ET
+Q
+q
+50.4 603 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 606.92 Tm
+/F1 11 Tf
+(D7,D9) Tj
+ET
+Q
+q
+329.4 603 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 606.92 Tm
+/F1 11 Tf
+(2) Tj
+ET
+Q
+q
+377.4 603 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 606.92 Tm
+/F1 11 Tf
+(1N5818) Tj
+ET
+Q
+q
+50.4 588 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 591.92 Tm
+/F1 11 Tf
+(F1) Tj
+ET
+Q
+q
+329.4 588 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 591.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 588 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 591.92 Tm
+/F1 11 Tf
+(RXEF040) Tj
+ET
+Q
+q
+50.4 573 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 576.92 Tm
+/F1 11 Tf
+(J1,J2,J4) Tj
+ET
+Q
+q
+329.4 573 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 576.92 Tm
+/F1 11 Tf
+(3) Tj
+ET
+Q
+q
+377.4 573 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 420.606 576.92 Tm
+/F1 11 Tf
+(430450408) Tj
+ET
+Q
+q
+50.4 558 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 561.92 Tm
+/F1 11 Tf
+(J3,J5,J6,J7,J8,J9,J10,J11,J12,J13,J14,J15,J16,J17,J18) Tj
+ET
+Q
+q
+329.4 558 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 363.668 561.92 Tm
+/F1 11 Tf
+(15) Tj
+ET
+Q
+q
+377.4 558 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 420.606 561.92 Tm
+/F1 11 Tf
+(430450206) Tj
+ET
+Q
+q
+50.4 543 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 546.92 Tm
+/F1 11 Tf
+(L1) Tj
+ET
+Q
+q
+329.4 543 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 546.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 543 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 546.92 Tm
+/F1 11 Tf
+(4.7) Tj
+/F14 11 Tf
+<03BC> Tj
+/F1 11 Tf
+(H) Tj
+ET
+Q
+q
+50.4 528 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 531.92 Tm
+/F1 11 Tf
+(Q1,Q2,Q3,Q4,Q5,Q6) Tj
+ET
+Q
+q
+329.4 528 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 531.92 Tm
+/F1 11 Tf
+(6) Tj
+ET
+Q
+q
+377.4 528 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 531.92 Tm
+/F1 11 Tf
+(BC547) Tj
+ET
+Q
+q
+50.4 513 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 516.92 Tm
+/F1 11 Tf
+(R1,R12,R15,R16,R19,R27,R35) Tj
+ET
+Q
+q
+329.4 513 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 516.92 Tm
+/F1 11 Tf
+(7) Tj
+ET
+Q
+q
+377.4 513 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 516.92 Tm
+/F1 11 Tf
+(10K) Tj
+/F14 11 Tf
+<03A9> Tj
+ET
+Q
+q
+50.4 498 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 501.92 Tm
+/F1 11 Tf
+(R2) Tj
+ET
+Q
+q
+329.4 498 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 501.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 498 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 501.92 Tm
+/F1 11 Tf
+(3.9k) Tj
+/F14 11 Tf
+<03A9> Tj
+ET
+Q
+q
+50.4 483 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 486.92 Tm
+/F1 11 Tf
+(R3) Tj
+ET
+Q
+q
+329.4 483 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 486.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 483 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 486.92 Tm
+/F1 11 Tf
+(220) Tj
+/F14 11 Tf
+<03A9> Tj
+ET
+Q
+q
+50.4 468 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 471.92 Tm
+/F1 11 Tf
+(R4,R5) Tj
+ET
+Q
+q
+329.4 468 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 471.92 Tm
+/F1 11 Tf
+(2) Tj
+ET
+Q
+q
+377.4 468 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 471.92 Tm
+/F1 11 Tf
+(220R) Tj
+ET
+Q
+q
+50.4 453 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 456.92 Tm
+/F1 11 Tf
+(R6) Tj
+ET
+Q
+q
+329.4 453 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 456.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 453 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 456.92 Tm
+/F1 11 Tf
+(30) Tj
+/F14 11 Tf
+<03A9> Tj
+ET
+Q
+q
+50.4 438 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 441.92 Tm
+/F1 11 Tf
+(R7,R10,R11) Tj
+ET
+Q
+q
+329.4 438 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 441.92 Tm
+/F1 11 Tf
+(3) Tj
+ET
+Q
+q
+377.4 438 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 441.92 Tm
+/F1 11 Tf
+(270) Tj
+/F14 11 Tf
+<03A9> Tj
+ET
+Q
+q
+50.4 423 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 426.92 Tm
+/F1 11 Tf
+(R8,R13,R14,R17,R18,R20,R26,R28,R36) Tj
+ET
+Q
+q
+329.4 423 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 426.92 Tm
+/F1 11 Tf
+(9) Tj
+ET
+Q
+q
+377.4 423 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 426.92 Tm
+/F1 11 Tf
+(15K) Tj
+/F14 11 Tf
+<03A9> Tj
+ET
+Q
+q
+50.4 408 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 411.92 Tm
+/F1 11 Tf
+(R9) Tj
+ET
+Q
+q
+329.4 408 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 411.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 408 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 411.92 Tm
+/F1 11 Tf
+(10k) Tj
+/F14 11 Tf
+<03A9> Tj
+ET
+Q
+q
+50.4 393 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 396.92 Tm
+/F1 11 Tf
+(R29,R30,R31,R32,R33,R34) Tj
+ET
+Q
+q
+329.4 393 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 396.92 Tm
+/F1 11 Tf
+(6) Tj
+ET
+Q
+q
+377.4 393 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 396.92 Tm
+/F1 11 Tf
+(1.5k) Tj
+/F14 11 Tf
+<03A9> Tj
+ET
+Q
+q
+50.4 378 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 381.92 Tm
+/F1 11 Tf
+(U1) Tj
+ET
+Q
+q
+329.4 378 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 381.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 378 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 381.92 Tm
+/F1 11 Tf
+(SC0917) Tj
+ET
+Q
+q
+50.4 363 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 366.92 Tm
+/F1 11 Tf
+(U2) Tj
+ET
+Q
+q
+329.4 363 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 366.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 363 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 366.92 Tm
+/F1 11 Tf
+(TPS56837HRPAR) Tj
+ET
+Q
+q
+50.4 348 279 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 351.92 Tm
+/F1 11 Tf
+(U3) Tj
+ET
+Q
+q
+329.4 348 48 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 369.784 351.92 Tm
+/F1 11 Tf
+(1) Tj
+ET
+Q
+q
+377.4 348 99.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 378.9 351.92 Tm
+/F1 11 Tf
+(SMA6J24A-TR) Tj
+ET
+Q
+Q
+q
+50.4 348 474.75 390 re W n
+Q
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /ProcSet [/PDF /Text /ImageB /ImageC] /Font << /F1 4 0 R /F14 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 262 >>
+stream
+q
+50.4 348 204 390 re W n
+q
+50.4 723 101.25 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 726.92 Tm
+/F1 11 Tf
+(Exclude from BOM) Tj
+ET
+Q
+q
+151.65 723 102.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 153.15 726.92 Tm
+/F1 11 Tf
+(Exclude from Board) Tj
+ET
+Q
+Q
+q
+50.4 348 204 390 re W n
+Q
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /ProcSet [/PDF /Text /ImageB /ImageC] /Font << /F1 4 0 R /F14 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3033 >>
+stream
+q
+50.4 348 402.75 390 re W n
+q
+50.4 723 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 726.92 Tm
+/F1 11 Tf
+(Footprint) Tj
+ET
+Q
+q
+50.4 708 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 711.92 Tm
+/F1 11 Tf
+(Capacitor_SMD:C_1210_3225Metric) Tj
+ET
+Q
+q
+50.4 693 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 696.92 Tm
+/F1 11 Tf
+(Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P10.00mm_Horizontal) Tj
+ET
+Q
+q
+50.4 678 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 681.92 Tm
+/F1 11 Tf
+(Capacitor_SMD:C_0805_2012Metric) Tj
+ET
+Q
+q
+50.4 663 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 666.92 Tm
+/F1 11 Tf
+(Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal) Tj
+ET
+Q
+q
+50.4 648 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 651.92 Tm
+/F1 11 Tf
+(Capacitor_SMD:C_Elec_6.3x5.4) Tj
+ET
+Q
+q
+50.4 633 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 636.92 Tm
+/F1 11 Tf
+(Capacitor_SMD:C_Elec_10x10.2) Tj
+ET
+Q
+q
+50.4 618 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 621.92 Tm
+/F1 11 Tf
+(P6KE36A:P6KE36A) Tj
+ET
+Q
+q
+50.4 603 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 606.92 Tm
+/F1 11 Tf
+(Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal) Tj
+ET
+Q
+q
+50.4 588 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 591.92 Tm
+/F1 11 Tf
+(FUS_RXEF040_TYCO_TYC) Tj
+ET
+Q
+q
+50.4 573 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 576.92 Tm
+/F1 11 Tf
+(CONN_SD-43045-003_04_MOL) Tj
+ET
+Q
+q
+50.4 558 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 561.92 Tm
+/F1 11 Tf
+(CONN_SD-43045-003_02_MOL) Tj
+ET
+Q
+q
+50.4 543 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 546.92 Tm
+/F1 11 Tf
+(Inductor_THT:L_Axial_L7.0mm_D3.3mm_P10.16mm_Horizontal_Fastron_MICC) Tj
+ET
+Q
+q
+50.4 528 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 531.92 Tm
+/F1 11 Tf
+(Package_TO_SOT_THT:TO-92_Inline) Tj
+ET
+Q
+q
+50.4 513 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 516.92 Tm
+/F1 11 Tf
+(Resistor_SMD:R_1206_3216Metric) Tj
+ET
+Q
+q
+50.4 498 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 501.92 Tm
+/F1 11 Tf
+(Resistor_SMD:R_1206_3216Metric) Tj
+ET
+Q
+q
+50.4 483 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 486.92 Tm
+/F1 11 Tf
+(Resistor_SMD:R_1206_3216Metric) Tj
+ET
+Q
+q
+50.4 468 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 471.92 Tm
+/F1 11 Tf
+(Resistor_SMD:R_1206_3216Metric) Tj
+ET
+Q
+q
+50.4 453 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 456.92 Tm
+/F1 11 Tf
+(Resistor_SMD:R_1206_3216Metric) Tj
+ET
+Q
+q
+50.4 438 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 441.92 Tm
+/F1 11 Tf
+(Resistor_SMD:R_1206_3216Metric) Tj
+ET
+Q
+q
+50.4 423 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 426.92 Tm
+/F1 11 Tf
+(Resistor_SMD:R_1206_3216Metric) Tj
+ET
+Q
+q
+50.4 408 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 411.92 Tm
+/F1 11 Tf
+(Resistor_SMD:R_1206_3216Metric) Tj
+ET
+Q
+q
+50.4 393 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 396.92 Tm
+/F1 11 Tf
+(Resistor_SMD:R_1206_3216Metric) Tj
+ET
+Q
+q
+50.4 378 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 381.92 Tm
+/F1 11 Tf
+(SC0917:SC0917_Header) Tj
+ET
+Q
+q
+50.4 363 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 366.92 Tm
+/F1 11 Tf
+(TPS56837HRPAR:RPA0010A-MFG) Tj
+ET
+Q
+q
+50.4 348 402.75 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 351.92 Tm
+/F1 11 Tf
+(SMA_UNI_STM) Tj
+ET
+Q
+Q
+q
+50.4 348 402.75 390 re W n
+Q
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /ProcSet [/PDF /Text /ImageB /ImageC] /Font << /F1 4 0 R /F14 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 2588 >>
+stream
+q
+50.4 348 399 390 re W n
+q
+50.4 723 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 726.92 Tm
+/F1 11 Tf
+(Datasheet) Tj
+ET
+Q
+q
+50.4 708 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 711.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 693 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 696.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 678 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 681.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 663 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 666.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 648 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 651.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 633 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 636.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 618 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 621.92 Tm
+/F1 11 Tf
+(https://diotec.com/de/produktliste/Z.html) Tj
+ET
+Q
+q
+50.4 603 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 606.92 Tm
+/F1 11 Tf
+(http://www.vishay.com/docs/88525/1n5817.pdf) Tj
+ET
+Q
+q
+50.4 588 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 591.92 Tm
+/F1 11 Tf
+(RXEF040) Tj
+ET
+Q
+q
+50.4 573 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 576.92 Tm
+/F1 11 Tf
+(https://www.molex.com/en-us/products/part-detail-pdf/430450408?display=pdf) Tj
+ET
+Q
+q
+50.4 558 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 561.92 Tm
+/F1 11 Tf
+(https://www.molex.com/en-us/products/part-detail-pdf/430450206?display=pdf) Tj
+ET
+Q
+q
+50.4 543 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 546.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 528 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 531.92 Tm
+/F1 11 Tf
+(https://www.onsemi.com/pub/Collateral/BC550-D.pdf) Tj
+ET
+Q
+q
+50.4 513 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 516.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 498 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 501.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 483 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 486.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 468 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 471.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 453 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 456.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 438 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 441.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 423 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 426.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 408 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 411.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 393 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 396.92 Tm
+/F1 11 Tf
+(~) Tj
+ET
+Q
+q
+50.4 378 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 381.92 Tm
+/F1 11 Tf
+(https://s3.amazonaws.com/snapeda/datasheet/SC0917_Raspberry_Pi.pdf) Tj
+ET
+Q
+q
+50.4 363 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 366.92 Tm
+/F1 11 Tf
+(https://www.ti.com/lit/gpn/tps56837h) Tj
+ET
+Q
+q
+50.4 348 399 15 re W n
+BT
+0 0 0 rg
+1 0 0 1 51.9 351.92 Tm
+/F1 11 Tf
+(SMA6J24A-TR) Tj
+ET
+Q
+Q
+q
+50.4 348 399 390 re W n
+Q
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /ProcSet [/PDF /Text /ImageB /ImageC] /Font << /F1 4 0 R /F14 5 0 R >> >> /Contents 14 0 R >>
+endobj
+xref
+0 16
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000142 00000 n 
+0000000231 00000 n 
+0000000328 00000 n 
+0000000451 00000 n 
+0000000631 00000 n 
+0000000803 00000 n 
+0000008260 00000 n 
+0000008435 00000 n 
+0000008748 00000 n 
+0000008925 00000 n 
+0000012010 00000 n 
+0000012187 00000 n 
+0000014827 00000 n 
+trailer
+<< /Size 16 /Root 1 0 R /Info 3 0 R >>
+startxref
+15004
+%%EOF
